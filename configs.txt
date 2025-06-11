@@ -1,0 +1,15 @@
+#COMANDOS A SEREM EXECUTADOS NO TERMINAL:
+
+pip install streamlit
+
+pip install langchain langchain-community
+
+pip install openai
+
+pip install tiktoken
+
+#Para rodar ultima versão executar no terminal:
+python -m streamlit run questionario.py
+
+#Para rodar testes via Interactive / bash:
+python questionario.py
