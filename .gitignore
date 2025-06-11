@@ -1,0 +1,25 @@
+# Ignorar o ambiente virtual
+venv/
+
+# Ignorar variáveis de ambiente
+.env
+
+# Ignorar arquivos compilados do Python
+__pycache__/
+*.pyc
+
+# (opcional) Ignorar configs do VSCode
+.vscode/
+
+Prompts.txt
+TOKENS.txt
+agente_especialista.py
+agente_revisor.py
+email_qa.py
+hinode_faq.csv
+knowledge_base.xlsx
+questionario.py
+questionariov2.py
+questionariov3.py
+questionariov4.py
+questionariov5.py
