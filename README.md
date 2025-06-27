@@ -1,4 +1,4 @@
-# alphaagents
+# Leitor de Notas Fiscais
 
 Este projeto permite que você faça perguntas sobre notas fiscais a partir de arquivos CSV, utilizando agentes de IA com LangChain e Streamlit.
 
